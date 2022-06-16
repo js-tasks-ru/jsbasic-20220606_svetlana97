@@ -4,5 +4,4 @@ function factorial(n) {
     m =  m * i;
 }
 return (m);
-alert(m);
 }
